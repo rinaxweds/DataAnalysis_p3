@@ -11,11 +11,15 @@ Setup:
    cd DataAnalysis_P3.git
 
 2. Install required libraries:
-   pip install -r requirements.txt
+
+   
+       pip install -r requirements.txt
 
 3. Run the Topic Modeling Script
 To analyze the dataset and extract topics, run:
-    python topic_modeling.py
+
+
+       python topic_modeling.py
 
 This will:
 *Process and clean the text data.
