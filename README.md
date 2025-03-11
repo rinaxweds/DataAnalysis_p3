@@ -7,15 +7,16 @@ Before running the code, make sure you have Python 3.x installed. It’s recomme
 
 Setup:
 1. Clone the repository:
-   git clone https://github.com/rinaxweds/DataAnalysis_P3.git
-   cd DataAnalysis_P3.git
+   
+       git clone https://github.com/rinaxweds/DataAnalysis_P3.git
+       cd DataAnalysis_P3.git
 
-2. Install required libraries:
+3. Install required libraries:
 
    
        pip install -r requirements.txt
 
-3. Run the Topic Modeling Script
+4. Run the Topic Modeling Script
 To analyze the dataset and extract topics, run:
 
 
